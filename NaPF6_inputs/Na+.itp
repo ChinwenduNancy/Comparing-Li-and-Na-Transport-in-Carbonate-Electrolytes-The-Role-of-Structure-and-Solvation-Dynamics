@@ -1,0 +1,8 @@
+[ moleculetype ]
+; name       nrexcl
+NA                3
+
+[ atoms ]
+;  nr   type  resnr  residu   atom   cgnr    charge
+    1   Na        1  Na       Na1       1    0.8000
+
